@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, Ben DostumBenim!
 
-<!--
-**DostumBenim/DostumBenim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirmeye, oyun dünyasına ve elektroniğe meraklı bir bilişim teknolojileri öğrencisiyim. Sürekli yeni teknolojiler öğrenmeyi ve projeler üretmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Üzerinde Çalıştığım Alanlar
+* 🎮 **Oyun Geliştirme:** Unity (URP 2D) ve Roblox Studio üzerinde mekanikler tasarlıyor ve projeler üretiyorum.
+* 🤖 **Robotik & Elektronik:** Arduino ve ESP32 gibi platformlarla gömülü sistemler ve otonom araç projeleri geliştiriyorum.
+* 🎨 **Dijital Tasarım:** Projelerim için Pixel Studio ile 2D piksel sanat varlıkları ve Fusion 360 ile 3D modellemeler hazırlıyorum.
+
+### 💻 Teknolojiler ve Araçlar
+* **Programlama Dilleri:** C#, Python, Luau, SQL
+* **Geliştirme Ortamları:** Unity, Roblox Studio, VS Code
+* **Donanım & Tasarım:** Arduino, ESP32, Autodesk Fusion 360, Pixel Studio Pro
+
+---
+
+⚡ *Eğlenceli Bilgi: tasarım yaparken kuşumdan ilham alırım
